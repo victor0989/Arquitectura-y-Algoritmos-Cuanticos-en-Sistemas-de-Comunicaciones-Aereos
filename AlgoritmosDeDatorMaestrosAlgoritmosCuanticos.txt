@@ -1,0 +1,27 @@
+public ModificarAdminDatosMaestrosResponseMessage modificarDatosMaestros(ModificarAdminDatosMaestrosRequestMesage request){
+    logger.info("[CargaModAdminDatosMaestrosBusiness.modificarDatosMaestros] ");
+    ModificarAdminDatosMaestrosResponseMessage response = new ModificarAdminDatosMaestrosResponseMessage();
+    int in = 0;
+    int mod = 0;
+    response.setOk(Boolean.FALSE);
+    if(CollectionUtils.isNotEmpty(request.getListaModificacion())){
+        logger.info("[CargaModAdminDatosMaestrosBusiness.modificarDatosMaestros] Se van a cargar " + request.getListaModificacion().size() +" registros.");
+
+        for (){
+         
+             if (dto.getValor() != null) { String valor = dto.getValor().toString();
+             String valorConComa = valor.replace(',','.');
+             dto.setValor(valorConComa);
+          }
+
+     }
+    }
+
+
+}
+
+public ValidarModificacionDatosMaestrosResponseMessage modificarDatosMaestros(ModificarDatosMaestrosRequest){
+    ModificarAdminDatosMaestrosResponseMessage response = new ModificarAdminDatosMaestrosResponseMessage();
+    response = cargaModAdminDatosMaestrosBussiness.modificarDatosMaestros(request);
+
+}
