@@ -1,0 +1,19 @@
+El circuito si se diseña en base a los parametros
+y la forma de una esfera de bloque o Bloch sphere.
+
+Tendria una forma esferica y una serie de angulos,
+se podria conectar a alguna fuente de alimentación
+
+pag 161
+
+Entonces los qubits o transmision de señales viajarian
+a atrves de pliegues de angulos, angulos plegados, circuitos
+ligados a infrastructuras grandes, es imaginar un edificio
+o una nave un avion con pliegues por donde viajan lineas de transmision
+de forma circular y esférica. Tecnológicamente es diferente
+a lo que estamos acostumbrados.
+
+Si las formas que tienen las ondas son de tipo ondulatorio,
+los circuitos deben de tener esta forma ondulatoria y estar hechos
+de materiales superconductores e iones para que se den nuevas formas
+de tecnología donde se implementen los algoritmos cuánticos.
