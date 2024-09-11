@@ -1,19 +1,13 @@
-El circuito si se diseÒa en base a los parametros
-y la forma de una esfera de bloque o Bloch sphere.
+El circuito si se dise√±a en base a los parametros
+y la forma de una esfera de bloque o Bloch sphere. Tendria una forma esferica y una serie de angulos, se podria conectar a alguna fuente de alimentaci√≥n
 
-Tendria una forma esferica y una serie de angulos,
-se podria conectar a alguna fuente de alimentaciÛn
+(pag 161)
 
-pag 161
-
-Entonces los qubits o transmision de seÒales viajarian
-a atrves de pliegues de angulos, angulos plegados, circuitos
-ligados a infrastructuras grandes, es imaginar un edificio
-o una nave un avion con pliegues por donde viajan lineas de transmision
-de forma circular y esfÈrica. TecnolÛgicamente es diferente
-a lo que estamos acostumbrados.
+Entonces los qubits o transmision de se√±ales viajar√≠an
+a trav√©s de algunos pliegues de angulos tridimensionales que no se asemejan a un FPGA en dos dimensiones, posibles angulos plegados, circuitos y ligados a infrastructuras grandes, es como imaginar un edificio
+o un avion con pliegues por donde viajan lineas de transmision de forma circular y esf√©rica. Tecnol√≥gicamente es un poco diferente a lo que estamos acostumbrados.
 
 Si las formas que tienen las ondas son de tipo ondulatorio,
 los circuitos deben de tener esta forma ondulatoria y estar hechos
 de materiales superconductores e iones para que se den nuevas formas
-de tecnologÌa donde se implementen los algoritmos cu·nticos.
+de tecnolog√≠a donde se implementen los algoritmos cu√°nticos.
