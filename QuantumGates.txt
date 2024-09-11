@@ -1,0 +1,33 @@
+Gates:
+
+El proposito principal de un canal
+o un QRC es realizar la arquitectura
+de puertas lógicas para los qubits.
+
+Se puede utilizar un bus o carril mas eficiente basado en un cluster espacio-cuantico dentro de un fotodetector con diodos para un láser usando algoritmos de eficiencia y el fotodetector
+
+Algoritmo para puertas lógicas:
+n[]D(B(z,l)[]D(-B(z,l)D(z,a))
+
+Tenemos que por cada carril bus de la memoria cuántica o chip cuántico para n qubits, se generan
+unos estados donde cada puerta para qubits de la forma D(n) tiene la forma 2(n - 1) y variables
+independientes que se reescriben:
+
+D(n) = e(Z XOR 1...XOR(Ia1) + ZXOR(I)...XOR(Za2)+...(Z)XOR(Z)
+
+Cuadro gráfico:
+
+
+
+Instrucciones para implementar puertas D(n) para qubits:
+
+1. Se preparan los qubits de ancilla en el estado |+| 
+2. Un par de n qubits de memoria en la posicion o cuadratura del bus o carril
+y un canal que pueda realizar teleportaciones con qubits, por ejemplo en materiales
+superconductores, cristales especiales e iones atrapados en rejillas de circuitos para redirigir
+fotones y [] tener la memoria RAM especifica para los qubits.
+
+3. Medir el canal, la longitud, la onda de un fotodetector por ejemplo con iones u analizar
+si puede conectarse a la memoria RAM donde se realizen los registros de las teleportaciones,
+la idea es almacenar estados de qubits por un periodo breve de tiempo y transportarlos por un canal o bus hasta un filtro por donde pasaría la luz o los fotones de un láser.
+
